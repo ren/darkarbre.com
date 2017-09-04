@@ -2,3 +2,10 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+section {
+  width: auto;
+  float: none;
+  padding-bottom: 50px;
+  text-align: center;
+}
