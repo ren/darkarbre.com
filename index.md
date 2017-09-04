@@ -4,6 +4,8 @@ layout: default
 
 ### Dark Arbre Woodshop
 
-_Craft • Design_
+_Wood • Craft • Design_
 
 Islesboro, Maine
+
+[Contact](mailto:hello@darkarbre.com)
